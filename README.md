@@ -1,6 +1,6 @@
 # Salut 👋, je suis Lumbeto Axel
 
-### 💻 Développeur Frontend & PHP passionné, basé au Congo 🇨🇩
+### 💻 Développeur Frontend  passionné, basé au Congo 🇨🇩
 
 ---
 
